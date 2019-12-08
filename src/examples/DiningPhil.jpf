@@ -1,3 +1,4 @@
 target = DiningPhil
 
 search.class = .search.heuristic.BFSHeuristic
+listener+=,.listener.PathCountEstimator
